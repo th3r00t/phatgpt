@@ -1,2 +1,10 @@
 # phatgpt
-Simple terminal interface for chatgpt
+
+A terminal based interface for chatgpt.
+
+I have attempted to mimic the playgrounds current implementation as closely as
+possible. in order to use the script you will need an api key for chatgpt.
+
+You can get one here [https://openai.com/api/](openai.com)
+
+set your api key to the enviroment variable OPENAI_API_KEY
