@@ -25,7 +25,7 @@ CLASSIFIERS = [
 
 setup(
     name='phatgpt',
-    version='0.0.6',
+    version='0.0.7',
     description='A simple terminal interface for chatgpt',
     long_description=long_description,
     url='https://github.com/th3r00t/phatgpt',
