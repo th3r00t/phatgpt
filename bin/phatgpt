@@ -32,7 +32,7 @@ def phatgpt():
             if user_input  == "y":
                 for i in response["choices"]:
                     print(i.text)
-                    continue
+                continue
         print(response["choices"][0].text)
     exit(0)
 
