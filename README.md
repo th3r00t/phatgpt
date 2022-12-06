@@ -8,3 +8,9 @@ possible. in order to use the script you will need an api key for chatgpt.
 You can get one here [https://openai.com/api/](openai.com)
 
 set your api key to the enviroment variable OPENAI_API_KEY
+
+Links
+
+- [https://pypi.org/project/phatgpt/](https://pypi.org/project/phatgpt/)
+
+install with pip install phatgpt
